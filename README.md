@@ -9,10 +9,7 @@ A Feedback Tanking System made using Python is a great way to keep track of cust
 
 
 ## Screenshots
-
 [![1-feedback-descriptive-2.jpg](https://i.postimg.cc/tJS8KRS0/1-feedback-descriptive-2.jpg)](https://postimg.cc/hQmCxnRM)
-
-
 ## Installation
 
 
